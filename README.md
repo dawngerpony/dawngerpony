@@ -23,7 +23,12 @@ Find me on:
 
 ## Interesting repositories
 
-I have many repositories
+I have many repositories, but only a few of them contain anything of interest:
+
+- [auth0-nodejs-poc](https://github.com/dawngerpony/auth0-nodejs-poc): playing around with OpenID Connect and NodeJS
+- [algorithms](https://github.com/dawngerpony/algorithms): learning various data structures and algorithms in Python and Java
+
+I'm hoping to have more here soon :wink:
 
 <!--
 **dawngerpony/dawngerpony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
