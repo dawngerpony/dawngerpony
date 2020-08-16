@@ -25,12 +25,16 @@ Find me on:
 
 ## Interesting repositories
 
-I have many repositories, but only a few of them contain anything of interest:
+I have many repositories, but only a few of them currently contain anything of interest:
 
 - [auth0-nodejs-poc](https://github.com/dawngerpony/auth0-nodejs-poc): playing around with OpenID Connect and NodeJS
 - [algorithms](https://github.com/dawngerpony/algorithms): learning various data structures and algorithms in Python and Java
 
 I'm hoping to have more here soon :wink:
+
+## Credit
+
+:raised_hands: Thanks to [Chris Coyier](https://github.com/chriscoyier) and his article: [The GitHub Profile Trick](https://css-tricks.com/the-github-profile-trick/) for taking me through the process of creating this page. Naturally, thanks also goes to [Monica Powell](https://github.com/M0nica) for clearly inspiring Chris's article!
 
 <!--
 **dawngerpony/dawngerpony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
