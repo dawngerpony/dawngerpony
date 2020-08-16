@@ -14,6 +14,15 @@ Find me on:
 - [Stack Overflow: dawngerpony](https://stackoverflow.com/users/722553/dawngerpony)
 - [Codewars: dawngerpony](https://www.codewars.com/users/dawngerpony)
 
+## :bulb: I'm interested in
+
+This isn't my CV or anything, but I'm a big fan of:
+
+- microservices and distributed architecture
+- evolutionary architecture
+- event-driven architectures
+- technical strategy
+
 ## 🔭 I’m currently working on
 
 - My day job (private repositories unfortunately)
