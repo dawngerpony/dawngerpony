@@ -1,4 +1,29 @@
-### Hi there 👋
+# Hi there 👋
+
+My name is Dawn, and my pronouns are "she" and "her".
+
+I'm a software engineer living in London, UK, working for [Kobalt Music](https://github.com/ktech-org/).
+
+## 📫 How to reach me
+
+Find me on:
+
+- [LinkedIn:dawngerpony](https://www.linkedin.com/in/dawngerpony/)
+- [Stack Overflow: dawngerpony](https://stackoverflow.com/users/722553/dawngerpony)
+
+## 🔭 I’m currently working on
+
+- My day job (private repositories unfortunately)
+- :snake: Contributing to the [moto](https://github.com/spulec/moto) open source Python library
+
+## 🌱 I’m currently learning
+
+- Kotlin
+- NodeJS / TypeScript
+
+## Interesting repositories
+
+I have many repositories
 
 <!--
 **dawngerpony/dawngerpony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
