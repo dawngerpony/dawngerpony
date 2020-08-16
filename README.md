@@ -20,7 +20,7 @@ Find me on:
 
 ## 🌱 I’m currently learning
 
-- Kotlin
+- [Kotlin](https://kotlinlang.org/)
 - NodeJS / TypeScript
 
 ## Interesting repositories
