@@ -2,7 +2,9 @@
 
 My name is Dawn, and my pronouns are "she" and "her".
 
-I'm a software engineer living in London, UK, working for [Kobalt Music](https://github.com/ktech-org/). You can read a little more about me in this 2019 article from our company engineering blog: [A Day in the Life: Dawn James (Principal Engineer)](https://medium.com/kobalt-music-group/a-day-in-the-life-dawn-james-principal-engineer-661c72836989)
+I'm a software engineer living in London, UK, working for [Kobalt Music](https://github.com/ktech-org/). You can read a little more about me in this 2019 article from our company engineering blog: [A Day in the Life: Dawn James (Principal Engineer)](https://medium.com/kobalt-music-group/a-day-in-the-life-dawn-james-principal-engineer-661c72836989).
+
+I'm also an advocate for Diversity, Equity and Inclusion, especially in tech, and am proud to be a [Code First Girls](https://codefirstgirls.org.uk) instructor.
 
 ## 📫 How to reach me
 
